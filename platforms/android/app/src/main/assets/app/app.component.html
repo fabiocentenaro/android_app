@@ -1,5 +1,9 @@
+<ScrollView orientation="vertical" >
 <StackLayout sdkExampleTitle sdkToggleNavButton>
-<ActionBar title="Ola Cassio & Luizinho" class="action-bar"></ActionBar>
+
+        
+
+<ActionBar title="CentenApp" class="action-bar"></ActionBar>
 <Label class="h3" text="Este é o meu programinha"></Label>
 
 <!-- Your UI components go here -->
@@ -20,4 +24,49 @@
 <Label class="h3 m-15" [text]="secondSwitchState" textWrap="true" row="1" col="0"></Label>
 <Switch class="m-15" checked="true" (checkedChange)="onSecondChecked($event)" row="1" col="1"></Switch>
 
+
+
+    <Label class="h3" text="10" textWrap="true" row="10" col="0"></Label>
+    <Slider minValue="10" maxValue="70" [(ngModel)]="sliderValue1" row="0"
+     col="1"></Slider>
+    <Label class="h3" text="70" textWrap="true" row="0" col="2"></Label>
+
+    <Label class="h3" text="10" textWrap="true" row="10" col="0"></Label>
+    <Slider minValue="10" maxValue="70" [(ngModel)]="sliderValue1" row="0"
+     col="1"></Slider>
+    <Label class="h3" text="70" textWrap="true" row="0" col="2"></Label>
+
+    <Label class="h3" text="10" textWrap="true" row="10" col="0"></Label>
+    <Slider minValue="10" maxValue="70" [(ngModel)]="sliderValue1" row="0"
+     col="1"></Slider>
+    <Label class="h3" text="70" textWrap="true" row="0" col="2"></Label>
+
+    <Label class="h3" text="10" textWrap="true" row="10" col="0"></Label>
+    <Slider minValue="10" maxValue="70" [(ngModel)]="sliderValue1" row="0"
+     col="1"></Slider>
+    <Label class="h3" text="70" textWrap="true" row="0" col="2"></Label>
+
+    <Label class="h3" text="10" textWrap="true" row="10" col="0"></Label>
+    <Slider minValue="10" maxValue="70" [(ngModel)]="sliderValue1" row="0"
+     col="1"></Slider>
+    <Label class="h3" text="70" textWrap="true" row="0" col="2"></Label>
+
+
+    
+<Label class="h3 m-15" [text]="firstSwitchState" textWrap="true" row="0" col="0"></Label>
+<Switch class="m-15" checked="false" (checkedChange)="onFirstChecked($event)" row="0" col="1"></Switch>
+<Label class="h3 m-15" [text]="secondSwitchState" textWrap="true" row="1" col="0"></Label>
+<Switch class="m-15" checked="true" (checkedChange)="onSecondChecked($event)" row="1" col="1"></Switch>
+
+
+
+
+<Label class="h3 m-15" [text]="firstSwitchState" textWrap="true" row="0" col="0"></Label>
+<Switch class="m-15" checked="false" (checkedChange)="onFirstChecked($event)" row="0" col="1"></Switch>
+<Label class="h3 m-15" [text]="secondSwitchState" textWrap="true" row="1" col="0"></Label>
+<Switch class="m-15" checked="true" (checkedChange)="onSecondChecked($event)" row="1" col="1"></Switch>
+
+
+
 </StackLayout>
+</ScrollView>

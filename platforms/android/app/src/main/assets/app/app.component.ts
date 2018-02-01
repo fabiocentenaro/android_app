@@ -2,7 +2,7 @@ import { Component } from "@angular/core";
 import { EventData } from "data/observable";
 import { Label } from "ui/label";
 import { Switch } from "ui/switch";
-
+import { ScrollEventData } from "ui/scroll-view";
 
 
 
@@ -24,6 +24,7 @@ export class AppComponent {
       this.counter = 0;
   }
 
+  
   changeLabelText() {
       this.twoway += " Two way bound label ";
       this.counter += 1;
