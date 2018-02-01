@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\fabio.centenaro\.android\build-cache\468b78d34437cd3a9db679109ba084c9643222fc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="C:\Centenaro\App\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\debug\classes_31a807a6aae1bb5167a44c9c39736d9792c9c837.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fabio.centenaro\.android\build-cache\ab04250ee07def769815788bd6b86fafdee41291\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="dd431d6aa9ce9dc0d429fcd239d412a82ea0e9a7">
+        <dex dex="C:\Centenaro\App\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\debug\classes_366fb0e67acb4d36a38243cc37dda088c24f1988.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fabio.centenaro\.android\build-cache\549afca92aec8e706203050e9d7837f370b1945a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Centenaro\App\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\debug\classes_7f266938c183e62dbc6eef2b363aa98c3fba71b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fabio.centenaro\.android\build-cache\a0acd91d6ce0c611ccc81de5dd966604eac4190e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Centenaro\App\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\debug\classes_908f3ebc7cbf34cf2f07ccf084ae28cc0071b239.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fabio.centenaro\.android\build-cache\45f215ab9e5c2ded4cd9f0cf9661068611e26857\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Centenaro\App\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\debug\classes_cb82adb318895115e677904a919d636ce506ae9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fabio.centenaro\.android\build-cache\3260d324b34ace7ca9b7263ad65d01cc7045d1bb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Centenaro\App\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\debug\classes_c20fd3cbca1874d8584756c286a3f934310b63b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fabio.centenaro\.android\build-cache\0e14307f4a375a42ac09959a34c44fd8d7c5ffff\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="C:\Centenaro\App\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\debug\classes_1e8634b4540abc2d42c35ad5435afbbd0a8bea3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Centenaro\App\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_7c88aee63584960575018a7d0454b660043aaeb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fabio.centenaro\.android\build-cache\65f63e4928d8a757952c298cec88bf67fafe1084\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="C:\Centenaro\App\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\debug\classes_c80d9e559ab52789f28f7bc6a5732521bca90ae3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fabio.centenaro\.android\build-cache\1cab83156d9bcb0f16314d0c3c4c3a4622d0d8b3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Centenaro\App\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\debug\classes_60abb29b8c7f54f8ad82b4503d7dde6c1cbebcb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fabio.centenaro\.android\build-cache\fbd3132a080e57f2de94e3f734e2e009c5e1b57d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Centenaro\App\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\debug\classes_01255f137e8b2728f7d6677aae7a5cbf23a08fc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fabio.centenaro\.android\build-cache\343a281c959aa04f1384c4c49c381e0a802be5db\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Centenaro\App\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\debug\classes_e0d18f65f62f371bf208d93eb0443572b92e9dce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fabio.centenaro\.android\build-cache\87ed1419bbff5367b3dbdeb86fffc9a59e95b78b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="C:\Centenaro\App\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\debug\classes_b040c1c7a0f8f4ac2d6eb228ad3d36954fc2023d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fabio.centenaro\.android\build-cache\cd23f73cda6a624ecf28a75294c490a5f0910158\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Centenaro\App\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\debug\classes_9327240c720da775168d67850ddfdac3a7c6c490.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fabio.centenaro\.android\build-cache\28ca30b473f960f75650ef7ed299d0733493a5f7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Centenaro\App\HelloWorld\platforms\android\app\build\intermediates\pre-dexed\debug\classes_9fd1c0a28a08a519a36ea47721d86fdfa7b6b361.jar" />
+    </item>
+
+</items>

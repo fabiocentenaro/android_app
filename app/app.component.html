@@ -1,0 +1,23 @@
+<StackLayout sdkExampleTitle sdkToggleNavButton>
+<ActionBar title="Ola Cassio & Luizinho" class="action-bar"></ActionBar>
+<Label class="h3" text="Este é o meu programinha"></Label>
+
+<!-- Your UI components go here -->
+<!-- basic Label usage-->
+<Label class="h3 p-15" text="Label (no binding)" textWrap="true"></Label>
+
+<!-- Label with one-way binding -->
+<Label class="h3 p-15" [text]="oneway" textWrap="true"></Label> 
+
+<!-- Label with two-way binding -->
+<Button class="btn btn-primary btn-active p-5 m-5" text="Change label text" (tap)="changeLabelText()"></Button> 
+<Label class="h3 p-15" [text]="counter + ' times two-way label has been changed'" textWrap="true"></Label>
+<Label class="h3 p-15" [text]="twoway" (textChange)="onTextChanged($event)" textWrap="true"></Label> 
+
+
+<Label class="h3 m-15" [text]="firstSwitchState" textWrap="true" row="0" col="0"></Label>
+<Switch class="m-15" checked="false" (checkedChange)="onFirstChecked($event)" row="0" col="1"></Switch>
+<Label class="h3 m-15" [text]="secondSwitchState" textWrap="true" row="1" col="0"></Label>
+<Switch class="m-15" checked="true" (checkedChange)="onSecondChecked($event)" row="1" col="1"></Switch>
+
+</StackLayout>
